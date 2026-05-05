@@ -47,16 +47,4 @@ Analytics Layer: Views and materialized views for reporting.
 
 Audit Layer: Triggers and system logs for data integrity.
 
-🛠 Getting Started
-Clone the repository
 
-Bash
-git clone https://github.com/your-username/stock-trading-db.git
-Initialize the Schema
-Import the /scripts/schema.sql into your PostgreSQL instance.
-
-Load Seed Data
-Run /scripts/seed.sql to populate the database with mock trading entities.
-
-Pro-Tip for your Portfolio:
-Include a "Performance Results" section if you have any benchmarks (e.g., "Query latency reduced from 250ms to 15ms after implementing partial indexes"). It adds a layer of professional credibility that recruiters love to see!
